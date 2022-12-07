@@ -7,6 +7,10 @@ again change here after doing mybranch switches
 
 >>>>>>> mybranch
 
+<<<<<<< HEAD
 this is fourth branch only
 /*here is you go now for next branch
+=======
+this is done in fourth branch now i will merge it to third branch
+>>>>>>> fourth
 
